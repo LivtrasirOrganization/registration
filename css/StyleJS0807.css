@@ -1,5 +1,44 @@
 body{
     text-align: center;
-    padding: 10px;
+    padding: 30px 10px;
     font-family: "Trebushet";
 }
+#form1{
+    border: 1px solid silver;
+    border-radius: 15px;
+    padding: 30px 30px 20px 30px;
+    margin: 20px auto;
+    width: 450px;
+    box-shadow: 0 0 silver, 0 0 20px silver;
+}
+.form-group div{
+    text-align: left;
+}
+
+.form-group label{
+    font-style: italic;
+    color: gray;
+    margin-bottom: 0;
+    margin-left: 5px;
+    font-size: 11px;
+}
+.form-group small{
+    display: none;
+    color: red;
+}
+#form1 p{
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
